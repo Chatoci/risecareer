@@ -1,6 +1,8 @@
 "use client";
 import { Briefcase, Users, Globe, ArrowRight, CheckCircle, Star, Phone, Mail, MapPin, TrendingUp, Clock, Shield, Menu, X, MessageCircle, ChevronLeft, ChevronRight } from "lucide-react";
 import Image from "next/image";
+import logo from '/logo.png';
+import logo from '/vdo-cover.jpg';
 import { useState, useEffect, useMemo } from "react";
 import { getContent, Language } from "../lib/languages";
 
