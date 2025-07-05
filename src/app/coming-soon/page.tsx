@@ -184,7 +184,7 @@ export default function ComingSoon() {
       {/* Header */}
       <header className="flex items-center justify-between px-8 py-6 max-w-7xl mx-auto w-full">
         <div className="flex items-center gap-3">
-               <Image src="/logo.png" alt="Rise Career Logo" width={150} height={150} unoptimized/>
+           <Image src="/logo.png" alt="Rise Career Logo" width={150} height={150} unoptimized />
         </div>
         <div className="flex gap-2 items-center">
           <Link 
