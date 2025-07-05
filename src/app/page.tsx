@@ -561,8 +561,8 @@ export default function Home() {
                 alt="Rise Career Video Cover"
                 width={600}
                 height={400}
-                unoptimized
                 className="w-full rounded-xl border border-cyan-300"
+                unoptimized
               />
               <div className="absolute inset-0 flex items-center justify-center">
                 <a href="/not-found" className="w-20 h-20 bg-cyan-200 hover:bg-cyan-400 rounded-full flex items-center justify-center shadow-lg transition-colors group">
