@@ -364,7 +364,9 @@ export default function Home() {
       <header className="flex items-center justify-between px-8 py-3 mx-auto w-full relative sticky top-0 z-50 bg-transparent backdrop-blur-sm border-b border-cyan-800/50">
         <div className="w-7xl mx-auto flex justify-between">
           <div className="flex items-center gap-3">
-              <Image src="/images/logo1.png" alt="Rise Career Logo" width={150} height={150} />
+            <a href="#">
+              <Image src="/images/logo.png" alt="Rise Career Logo" width={150} height={150} />
+            </a>
           </div>
 
 
