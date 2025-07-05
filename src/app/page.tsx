@@ -557,7 +557,7 @@ export default function Home() {
             <div className="relative max-w-4xl mx-auto">
               <h1 className="text-cyan-300 text-2xl font-bold mb-8">{content.videoTitle}</h1>
               <Image
-                src="/vdo_cover.jpg"
+                src="/vdo-cover.jpg"
                 alt="Rise Career Video Cover"
                 width={600}
                 height={400}
