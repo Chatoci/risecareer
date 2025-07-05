@@ -1,8 +1,6 @@
 "use client";
 import { Briefcase, Users, Globe, ArrowRight, CheckCircle, Star, Phone, Mail, MapPin, TrendingUp, Clock, Shield, Menu, X, MessageCircle, ChevronLeft, ChevronRight } from "lucide-react";
 import Image from "next/image";
-import logo from '/logo.png';
-import logo from '/vdo-cover.jpg';
 import { useState, useEffect, useMemo } from "react";
 import { getContent, Language } from "../lib/languages";
 
@@ -367,7 +365,7 @@ export default function Home() {
         <div className="w-7xl mx-auto flex justify-between">
           <div className="flex items-center gap-3">
             <a href="#">
-              <Image src="/logo.png" alt="Rise Career Logo" width={150} height={150} />
+              <Image src="/logo.png" alt="Rise Career Logo" width={40} height={40} />
             </a>
           </div>
 
