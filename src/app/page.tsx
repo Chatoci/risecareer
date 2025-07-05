@@ -365,7 +365,7 @@ export default function Home() {
         <div className="w-7xl mx-auto flex justify-between">
           <div className="flex items-center gap-3">
             <a href="#">
-              <Image src="/images/logo.png" alt="Rise Career Logo" width={150} height={150} />
+              <Image src="/logo.png" alt="Rise Career Logo" width={150} height={150} />
             </a>
           </div>
 
@@ -557,7 +557,7 @@ export default function Home() {
             <div className="relative max-w-4xl mx-auto">
               <h1 className="text-cyan-300 text-2xl font-bold mb-8">{content.videoTitle}</h1>
               <Image
-                src="/images/vdo_cover.jpg"
+                src="/vdo_cover.jpg"
                 alt="Rise Career Video Cover"
                 width={600}
                 height={400}
