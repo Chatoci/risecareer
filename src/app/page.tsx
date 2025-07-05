@@ -365,7 +365,7 @@ export default function Home() {
         <div className="w-7xl mx-auto flex justify-between">
           <div className="flex items-center gap-3">
             <a href="#">
-              RiseCareer
+               <Image src="/logo.png" alt="Rise Career Logo" width={150} height={150} />
             </a>
           </div>
 
