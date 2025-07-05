@@ -561,6 +561,7 @@ export default function Home() {
                 alt="Rise Career Video Cover"
                 width={600}
                 height={400}
+                unoptimized
                 className="w-full rounded-xl border border-cyan-300"
               />
               <div className="absolute inset-0 flex items-center justify-center">
